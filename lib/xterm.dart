@@ -1,4 +1,3 @@
-library xterm;
-
-export 'terminal/terminal.dart';
-export 'frontend/terminal_view.dart';
+export 'core.dart';
+export 'ui.dart';
+export 'zmodem.dart';
